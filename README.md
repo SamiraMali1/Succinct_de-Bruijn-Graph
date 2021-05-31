@@ -1,1 +1,1 @@
-# Succinct_de-Bruijn-Graph
+# Succinct de-Bruijn-Graph
